@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+Feb 25, 2017
 
 ### Student Name:  
-(First and Last Name)
+Humphrey Minott
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Using html and javascript, I created an Income Tax Calcular!
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. If/Else statements or how to control statement flow
+2. Nested if statements
+3. getElementById()method
