@@ -1,26 +1,21 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+## Project Name:  Income Tax Calculator Application
 
+### Course Title:
+LIS 2360:  Web Application Development
 
-Hi there! Welcome to Cloud9 IDE!
+### Assignment Date:  
+Feb 25, 2017
 
-To get you started, we included a small hello world application.
+### Student Name:  
+Humphrey Minott
 
-1) Open the hello-world.html file
+### Project Description:
+Using html and javascript, I created an Income Tax Calcular!
 
-2) Click on the Preview button to open a live preview pane
+### View Project:
+https://humphreyminott.github.io/lesson5_javascript2/
 
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+### Lessons Learned in the Assignment:
+1. If/Else statements or how to control statement flow
+2. Nested if statements
+3. getElementById()method
