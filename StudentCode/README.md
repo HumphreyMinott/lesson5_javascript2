@@ -13,8 +13,7 @@ Humphrey Minott
 Using html and javascript, I created an Income Tax Calcular!
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://humphreyminott.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
 1. If/Else statements or how to control statement flow
